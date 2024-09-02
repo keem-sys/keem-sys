@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything software development related
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on cool software projects
-- 📫 How to reach me : deumdilige@gmail.com
+- 📫 How to reach me : iamwriter@regnum.slmail.me
 - ⚡ Fun fact: Java runs on over 6 billion devices
 
 <!---
