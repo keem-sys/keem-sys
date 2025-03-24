@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @keem-sys
 - 👀 I’m interested in anything software development related
-- 🌱 I’m currently learning java & python
+- 🌱 I’m currently working with java & python
 - 💞️ I’m looking to collaborate on cool software projects
 - 📫 How to reach me : iamwriter@regnum.slmail.me
-- ⚡ Fun fact: Java runs on over 6 billion devices
+- ⚡ Fun fact: Until Java 7, you could print Hello World without having a main method!
 
 <!---
 keem-sys/keem-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
