@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <h4>Languages</h4>
 
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
