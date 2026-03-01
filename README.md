@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey I'm Keem👋 
+# Hey I'm Ebenezer👋 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&center=true&width=435&lines=Aspiring+Developer;Tech+Enthusiast;Open+to+Collaborate!)](https://git.io/typing-svg)
 
